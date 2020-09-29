@@ -1,4 +1,4 @@
-import { Interval } from "./model";
+import {Interval} from "./intervals";
 
 export class Mode {
   constructor(
